@@ -1,0 +1,15 @@
+{
+  "speed_test": 1,
+  "speed_test_us": 2,
+  "dns": 3,
+  "icm_s_test": 3,
+  "youtube_test": 5,
+  "teng_speed_test": 6,
+  "icm_p_test": 7,
+  "http_web_page_load_test": 8,
+  "drop_box": 9,
+  "tcp_test": 10,
+  "html5_speed_test_sg": 11,
+  "html5_speed_test_us": 12,
+  "fast_com": 13
+}
